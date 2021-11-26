@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dishes>
+	<dish>
+		<name>dish0</name>
+		<description>this is dish0</description>
+		<price>17.5</price>
+	</dish>
+	<dish>
+		<name>dish1</name>
+		<description>this is dish1</description>
+		<price>12.5</price>
+	</dish>
+</dishes>
